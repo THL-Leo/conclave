@@ -1,0 +1,5 @@
+__pycache__
+.env
+/data
+political_leaning_summaries.txt
+
