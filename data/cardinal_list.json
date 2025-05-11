@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Pietro Parolin",
+    "country": "Italy",
+    "role": "Secretary of State of His Holiness",
+    "order": "CB",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pietro_Parolin"
+  },
+  {
+    "name": "Fernando Filoni",
+    "country": "Italy",
+    "role": "Grand Master of theOrder of the Holy Sepulchre",
+    "order": "CB",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fernando_Filoni"
+  },
+  {
+    "name": "Luis Antonio Tagle",
+    "country": "Philippines",
+    "role": "Pro-Prefect of theDicastery for Evangelization",
+    "order": "CB",
+    "wiki_url": "https://en.wikipedia.org/wiki/Luis_Antonio_Tagle"
+  },
+  {
+    "name": "Robert Francis Prevost",
+    "country": "United States",
+    "role": "Prefect of theDicastery for Bishops",
+    "order": "CB",
+    "wiki_url": "https://en.wikipedia.org/wiki/Robert_Francis_Prevost"
+  },
+  {
+    "name": "Louis Rapha\u00ebl\u00a0I Sako",
+    "country": "Iraq",
+    "role": "Patriarch of Baghdad(Chaldean Church)",
+    "order": "CB",
+    "wiki_url": "https://en.wikipedia.org/wiki/Louis_Rapha%C3%ABl_I_Sako"
+  },
+  {
+    "name": "Vinko Pulji\u0107",
+    "country": "Bosnia and Herzegovina",
+    "role": "Archbishop emeritus of Vrhbosna",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vinko_Pulji%C4%87"
+  },
+  {
+    "name": "Peter Turkson",
+    "country": "Ghana",
+    "role": "Chancellor of thePontifical Academy of Sciencesand thePontifical Academy of Social Sciences",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Peter_Turkson"
+  },
+  {
+    "name": "Josip Bozani\u0107",
+    "country": "Croatia",
+    "role": "Archbishop emeritus of Zagreb",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Josip_Bozani%C4%87"
+  },
+  {
+    "name": "Philippe Barbarin",
+    "country": "France",
+    "role": "Archbishop emeritus of Lyon",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Philippe_Barbarin"
+  },
+  {
+    "name": "P\u00e9ter Erd\u0151",
+    "country": "Hungary",
+    "role": "Archbishop of Esztergom\u2013Budapest",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/P%C3%A9ter_Erd%C5%91"
+  },
+  {
+    "name": "Stanis\u0142aw Ry\u0142ko",
+    "country": "Poland",
+    "role": "Archpriest of thePapal Basilica of Saint Mary Major",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Ry%C5%82ko"
+  },
+  {
+    "name": "Francisco Robles Ortega",
+    "country": "Mexico",
+    "role": "Archbishop of Guadalajara",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Francisco_Robles_Ortega"
+  },
+  {
+    "name": "Daniel DiNardo",
+    "country": "United States",
+    "role": "Archbishop emeritus of Galveston\u2013Houston",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Daniel_DiNardo"
+  },
+  {
+    "name": "Odilo Scherer",
+    "country": "Brazil",
+    "role": "Archbishop of S\u00e3o Paulo",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Odilo_Scherer"
+  },
+  {
+    "name": "Robert Sarah",
+    "country": "Guinea",
+    "role": "Prefect emeritus of theCongregation for Divine Worship and the Discipline of the Sacraments",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Robert_Sarah"
+  },
+  {
+    "name": "Raymond Leo Burke",
+    "country": "United States",
+    "role": "Patron emeritus of theSovereign Military Order of Malta",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Raymond_Leo_Burke"
+  },
+  {
+    "name": "Kurt Koch",
+    "country": "Switzerland",
+    "role": "Prefect of theDicastery for Promoting Christian Unity",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kurt_Koch"
+  },
+  {
+    "name": "Kazimierz Nycz",
+    "country": "Poland",
+    "role": "Archbishop emeritus of Warsaw",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kazimierz_Nycz"
+  },
+  {
+    "name": "Malcolm Ranjith",
+    "country": "Sri Lanka",
+    "role": "Archbishop of Colombo",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Malcolm_Ranjith"
+  },
+  {
+    "name": "Reinhard Marx",
+    "country": "Germany",
+    "role": "Archbishop of Munich and Freisingand Coordinator of theCouncil for the Economy",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Reinhard_Marx"
+  },
+  {
+    "name": "Jo\u00e3o Braz de Aviz",
+    "country": "Brazil",
+    "role": "Prefect emeritus of theDicastery for Institutes of Consecrated Life and Societies of Apostolic Life",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Braz_de_Aviz"
+  },
+  {
+    "name": "Thomas Collins",
+    "country": "Canada",
+    "role": "Archbishop emeritus of Toronto",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Thomas_Collins_(cardinal)"
+  },
+  {
+    "name": "Wim Eijk",
+    "country": "Netherlands",
+    "role": "Archbishop of Utrecht",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wim_Eijk"
+  },
+  {
+    "name": "Giuseppe Betori",
+    "country": "Italy",
+    "role": "Archbishop emeritus of Florence",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Giuseppe_Betori"
+  },
+  {
+    "name": "Timothy Dolan",
+    "country": "United States",
+    "role": "Archbishop of New York",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Timothy_Dolan"
+  },
+  {
+    "name": "Rainer Woelki",
+    "country": "Germany",
+    "role": "Archbishop of Cologne",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rainer_Woelki"
+  },
+  {
+    "name": "James Michael Harvey",
+    "country": "United States",
+    "role": "Archpriest of thePapal Basilica of Saint Paul Outside the Walls",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/James_Michael_Harvey"
+  },
+  {
+    "name": "Baselios Cleemis",
+    "country": "India",
+    "role": "Major Archbishop of Trivandrum(Syro-Malankara Church)",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Baselios_Cleemis"
+  },
+  {
+    "name": "Gerhard Ludwig M\u00fcller",
+    "country": "Germany",
+    "role": "Prefect emeritus of theCongregation for the Doctrine of the Faith",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gerhard_Ludwig_M%C3%BCller"
+  },
+  {
+    "name": "Vincent Nichols",
+    "country": "United Kingdom",
+    "role": "Archbishop of Westminster",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vincent_Nichols"
+  },
+  {
+    "name": "Leopoldo Brenes",
+    "country": "Nicaragua",
+    "role": "Archbishop of Managua",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Leopoldo_Brenes"
+  },
+  {
+    "name": "G\u00e9rald Lacroix",
+    "country": "Canada",
+    "role": "Archbishop of Quebec",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/G%C3%A9rald_Lacroix"
+  },
+  {
+    "name": "Jean-Pierre Kutwa",
+    "country": "Ivory Coast",
+    "role": "Archbishop emeritus of Abidjan",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Kutwa"
+  },
+  {
+    "name": "Orani Jo\u00e3o Tempesta",
+    "country": "Brazil",
+    "role": "Archbishop of S\u00e3o Sebasti\u00e3o do Rio de Janeiro",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Orani_Jo%C3%A3o_Tempesta"
+  },
+  {
+    "name": "Mario Aurelio Poli",
+    "country": "Argentina",
+    "role": "Archbishop emeritus of Buenos Aires",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Aurelio_Poli"
+  },
+  {
+    "name": "Philippe Ou\u00e9draogo",
+    "country": "Burkina Faso",
+    "role": "Archbishop emeritus of Ouagadougou",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Philippe_Ou%C3%A9draogo_(cardinal)"
+  },
+  {
+    "name": "Chibly Langlois",
+    "country": "Haiti",
+    "role": "Bishop of Les Cayes",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Chibly_Langlois"
+  },
+  {
+    "name": "Manuel Clemente",
+    "country": "Portugal",
+    "role": "Patriarch emeritus of Lisbon",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Manuel_Clemente"
+  },
+  {
+    "name": "Berhaneyesus Demerew Souraphiel",
+    "country": "Ethiopia",
+    "role": "Archbishop of Addis Abeba(Ethiopian Church)",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Berhaneyesus_Demerew_Souraphiel"
+  },
+  {
+    "name": "John Dew",
+    "country": "New Zealand",
+    "role": "Archbishop emeritus of Wellington",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/John_Dew_(cardinal)"
+  },
+  {
+    "name": "Charles Maung Bo",
+    "country": "Myanmar",
+    "role": "Archbishop of Yangon",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Charles_Maung_Bo"
+  },
+  {
+    "name": "Kriengsak Kovitvanit",
+    "country": "Thailand",
+    "role": "Archbishop emeritus of Bangkok",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kriengsak_Kovitvanit"
+  },
+  {
+    "name": "Francesco Montenegro",
+    "country": "Italy",
+    "role": "Archbishop emeritus of Agrigento",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Francesco_Montenegro"
+  },
+  {
+    "name": "Daniel Sturla",
+    "country": "Uruguay",
+    "role": "Archbishop of Montevideo",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Daniel_Sturla"
+  },
+  {
+    "name": "Arlindo Gomes Furtado",
+    "country": "Cape Verde",
+    "role": "Bishop of Santiago de Cabo Verde",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Arlindo_Gomes_Furtado"
+  },
+  {
+    "name": "Soane Patita Paini Mafi",
+    "country": "Tonga",
+    "role": "Bishop of Tonga",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Soane_Patita_Paini_Mafi"
+  },
+  {
+    "name": "Dieudonn\u00e9 Nzapalainga",
+    "country": "Central African Republic",
+    "role": "Archbishop of Bangui",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dieudonn%C3%A9_Nzapalainga"
+  },
+  {
+    "name": "Carlos Osoro Sierra",
+    "country": "Spain",
+    "role": "Archbishop emeritus of Madrid",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Carlos_Osoro_Sierra"
+  },
+  {
+    "name": "S\u00e9rgio da Rocha",
+    "country": "Brazil",
+    "role": "Archbishop of S\u00e3o Salvador da Bahia",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/S%C3%A9rgio_da_Rocha"
+  },
+  {
+    "name": "Blase J. Cupich",
+    "country": "United States",
+    "role": "Archbishop of Chicago",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Blase_J._Cupich"
+  },
+  {
+    "name": "Jozef De Kesel",
+    "country": "Belgium",
+    "role": "Archbishop emeritus of Mechelen\u2013Brussels",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jozef_De_Kesel"
+  },
+  {
+    "name": "Carlos Aguiar Retes",
+    "country": "Mexico",
+    "role": "Archbishop of Mexico",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Carlos_Aguiar_Retes"
+  },
+  {
+    "name": "John Ribat",
+    "country": "Papua New Guinea",
+    "role": "Archbishop of Port Moresby",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/John_Ribat"
+  },
+  {
+    "name": "Joseph W. Tobin",
+    "country": "United States",
+    "role": "Archbishop of Newark",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Joseph_W._Tobin"
+  },
+  {
+    "name": "Juan Jos\u00e9 Omella",
+    "country": "Spain",
+    "role": "Archbishop of Barcelona",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Omella"
+  },
+  {
+    "name": "Anders Arborelius",
+    "country": "Sweden",
+    "role": "Bishop of Stockholm",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anders_Arborelius"
+  },
+  {
+    "name": "Angelo De Donatis",
+    "country": "Italy",
+    "role": "Major Penitentiary",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Angelo_De_Donatis"
+  },
+  {
+    "name": "Joseph Coutts",
+    "country": "Pakistan",
+    "role": "Archbishop emeritus of Karachi",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Joseph_Coutts"
+  },
+  {
+    "name": "Ant\u00f3nio Marto",
+    "country": "Portugal",
+    "role": "Bishop emeritus of Leiria\u2013F\u00e1tima",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Marto"
+  },
+  {
+    "name": "D\u00e9sir\u00e9 Tsarahazana",
+    "country": "Madagascar",
+    "role": "Archbishop of Toamasina",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Tsarahazana"
+  },
+  {
+    "name": "Giuseppe Petrocchi",
+    "country": "Italy",
+    "role": "Archbishop emeritus of L'Aquila",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Giuseppe_Petrocchi"
+  },
+  {
+    "name": "Thomas Aquino Manyo Maeda",
+    "country": "Japan",
+    "role": "Archbishop of Osaka\u2013Takamatsu",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Thomas_Aquino_Manyo_Maeda"
+  },
+  {
+    "name": "Ignatius Suharyo Hardjoatmodjo",
+    "country": "Indonesia",
+    "role": "Archbishop of Jakarta",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ignatius_Suharyo_Hardjoatmodjo"
+  },
+  {
+    "name": "Juan Garc\u00eda Rodr\u00edguez",
+    "country": "Cuba",
+    "role": "Archbishop of San Crist\u00f3bal de la Habana",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Rodr%C3%ADguez"
+  },
+  {
+    "name": "Fridolin Ambongo Besungu",
+    "country": "Democratic Republic of the Congo",
+    "role": "Archbishop of Kinshasa",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fridolin_Ambongo_Besungu"
+  },
+  {
+    "name": "Jean-Claude Hollerich",
+    "country": "Luxembourg",
+    "role": "Archbishop of Luxembourg",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jean-Claude_Hollerich"
+  },
+  {
+    "name": "\u00c1lvaro Leonel Ramazzini Imeri",
+    "country": "Guatemala",
+    "role": "Bishop of Huehuetenango",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Leonel_Ramazzini_Imeri"
+  },
+  {
+    "name": "Matteo Zuppi",
+    "country": "Italy",
+    "role": "Archbishop of Bologna",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Matteo_Zuppi"
+  },
+  {
+    "name": "Crist\u00f3bal L\u00f3pez Romero",
+    "country": "Morocco",
+    "role": "Archbishop of Rabat",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_L%C3%B3pez_Romero"
+  },
+  {
+    "name": "Antoine Kambanda",
+    "country": "Rwanda",
+    "role": "Archbishop of Kigali",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Antoine_Kambanda"
+  },
+  {
+    "name": "Wilton Daniel Gregory",
+    "country": "United States",
+    "role": "Archbishop emeritus of Washington",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Wilton_Daniel_Gregory"
+  },
+  {
+    "name": "Jose Advincula",
+    "country": "Philippines",
+    "role": "Archbishop of Manila",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jose_Advincula"
+  },
+  {
+    "name": "Augusto Paolo Lojudice",
+    "country": "Italy",
+    "role": "Archbishop of Siena\u2013Colle di Val d'Elsa\u2013MontalcinoandBishop of Montepulciano\u2013Chiusi\u2013Pienza",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Augusto_Paolo_Lojudice"
+  },
+  {
+    "name": "Jean-Marc Aveline",
+    "country": "France",
+    "role": "Archbishop of Marseille",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jean-Marc_Aveline"
+  },
+  {
+    "name": "Peter Okpaleke",
+    "country": "Nigeria",
+    "role": "Bishop of Ekwulobia",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Peter_Okpaleke"
+  },
+  {
+    "name": "Leonardo Ulrich Steiner",
+    "country": "Brazil",
+    "role": "Archbishop of Manaus",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Leonardo_Ulrich_Steiner"
+  },
+  {
+    "name": "Filipe Neri Ferr\u00e3o",
+    "country": "India",
+    "role": "Archbishop of Goa and DamanandPatriarch of the East Indies",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Filipe_Neri_Ferr%C3%A3o"
+  },
+  {
+    "name": "Robert McElroy",
+    "country": "United States",
+    "role": "Archbishop of Washington",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Robert_McElroy_(cardinal)"
+  },
+  {
+    "name": "Virg\u00edlio do Carmo da Silva",
+    "country": "Timor-Leste",
+    "role": "Archbishop of D\u00edli",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Virg%C3%ADlio_do_Carmo_da_Silva"
+  },
+  {
+    "name": "Oscar Cantoni",
+    "country": "Italy",
+    "role": "Bishop of Como",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Oscar_Cantoni"
+  },
+  {
+    "name": "Anthony Poola",
+    "country": "India",
+    "role": "Archbishop of Hyderabad",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Anthony_Poola"
+  },
+  {
+    "name": "Paulo Cezar Costa",
+    "country": "Brazil",
+    "role": "Archbishop of Bras\u00edlia",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Paulo_Cezar_Costa"
+  },
+  {
+    "name": "William Goh",
+    "country": "Singapore",
+    "role": "Archbishop of Singapore",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/William_Goh"
+  },
+  {
+    "name": "Adalberto Mart\u00ednez Flores",
+    "country": "Paraguay",
+    "role": "Archbishop of Asunci\u00f3n",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Adalberto_Mart%C3%ADnez_Flores"
+  },
+  {
+    "name": "Giorgio Marengo",
+    "country": "Mongolia",
+    "role": "Apostolic Prefect of Ulaanbaatar",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Giorgio_Marengo"
+  },
+  {
+    "name": "Pierbattista Pizzaballa",
+    "country": "Jerusalem",
+    "role": "Latin Patriarch of Jerusalem",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pierbattista_Pizzaballa"
+  },
+  {
+    "name": "Stephen Brislin",
+    "country": "South Africa",
+    "role": "Archbishop of Johannesburg",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Stephen_Brislin"
+  },
+  {
+    "name": "\u00c1ngel Sixto Rossi",
+    "country": "Argentina",
+    "role": "Archbishop of C\u00f3rdoba",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/%C3%81ngel_Sixto_Rossi"
+  },
+  {
+    "name": "Luis Jos\u00e9 Rueda Aparicio",
+    "country": "Colombia",
+    "role": "Archbishop of Bogot\u00e1",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Luis_Jos%C3%A9_Rueda_Aparicio"
+  },
+  {
+    "name": "Grzegorz Ry\u015b",
+    "country": "Poland",
+    "role": "Archbishop of \u0141\u00f3d\u017a",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Grzegorz_Ry%C5%9B"
+  },
+  {
+    "name": "Stephen Ameyu Martin Mulla",
+    "country": "South Sudan",
+    "role": "Archbishop of Juba",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Stephen_Ameyu_Martin_Mulla"
+  },
+  {
+    "name": "Jos\u00e9 Cobo Cano",
+    "country": "Spain",
+    "role": "Archbishop of Madrid",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Cobo_Cano"
+  },
+  {
+    "name": "Protase Rugambwa",
+    "country": "Tanzania",
+    "role": "Archbishop of Tabora",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Protase_Rugambwa"
+  },
+  {
+    "name": "Sebastian Francis",
+    "country": "Malaysia",
+    "role": "Bishop of Penang",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sebastian_Francis"
+  },
+  {
+    "name": "Stephen Chow Sau-yan",
+    "country": "China",
+    "role": "Bishop of Hong Kong",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Stephen_Chow_(bishop)"
+  },
+  {
+    "name": "Fran\u00e7ois-Xavier Bustillo",
+    "country": "France",
+    "role": "Bishop of Ajaccio",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Xavier_Bustillo"
+  },
+  {
+    "name": "Am\u00e9rico Aguiar",
+    "country": "Portugal",
+    "role": "Bishop of Set\u00fabal",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Am%C3%A9rico_Aguiar"
+  },
+  {
+    "name": "Carlos Castillo Mattasoglio",
+    "country": "Peru",
+    "role": "Archbishop of Lima",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Carlos_Castillo_Mattasoglio"
+  },
+  {
+    "name": "Vicente Bokalic Iglic",
+    "country": "Argentina",
+    "role": "Archbishop of Santiago del Estero",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vicente_Bokalic_Iglic"
+  },
+  {
+    "name": "Luis Cabrera Herrera",
+    "country": "Ecuador",
+    "role": "Archbishop of Guayaquil",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Luis_Cabrera_Herrera"
+  },
+  {
+    "name": "Fernando Chomal\u00ed Garib",
+    "country": "Chile",
+    "role": "Archbishop of Santiago de Chile",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fernando_Chomal%C3%AD_Garib"
+  },
+  {
+    "name": "Tarcisio Isao Kikuchi",
+    "country": "Japan",
+    "role": "Archbishop of Tokyo",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Tarcisio_Isao_Kikuchi"
+  },
+  {
+    "name": "Pablo Virgilio David",
+    "country": "Philippines",
+    "role": "Bishop of Kalookan",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Pablo_Virgilio_David"
+  },
+  {
+    "name": "Ladislav Nemet",
+    "country": "Serbia",
+    "role": "Archbishop of Belgrade",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ladislav_Nemet"
+  },
+  {
+    "name": "Jaime Spengler",
+    "country": "Brazil",
+    "role": "Archbishop of Porto Alegre",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jaime_Spengler"
+  },
+  {
+    "name": "Ignace Bessi Dogbo",
+    "country": "Ivory Coast",
+    "role": "Archbishop of Abidjan",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Ignace_Bessi_Dogbo"
+  },
+  {
+    "name": "Jean-Paul Vesco",
+    "country": "Algeria",
+    "role": "Archbishop of Algiers",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jean-Paul_Vesco"
+  },
+  {
+    "name": "Dominique Mathieu",
+    "country": "Iran",
+    "role": "Archbishop of Tehran\u2013Isfahan",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dominique_Mathieu"
+  },
+  {
+    "name": "Roberto Repole",
+    "country": "Italy",
+    "role": "Archbishop of TurinandBishop of Susa",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Roberto_Repole"
+  },
+  {
+    "name": "Baldassare Reina",
+    "country": "Italy",
+    "role": "Vicar General for Romeand Archpriest of thePapal Basilica of Saint John Lateran",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Baldassare_Reina"
+  },
+  {
+    "name": "Frank Leo",
+    "country": "Canada",
+    "role": "Archbishop of Toronto",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Frank_Leo"
+  },
+  {
+    "name": "Mykola Bychok",
+    "country": "Australia",
+    "role": "Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church)",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mykola_Bychok"
+  },
+  {
+    "name": "Domenico Battaglia",
+    "country": "Italy",
+    "role": "Archbishop of Naples",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Domenico_Battaglia_(bishop)"
+  },
+  {
+    "name": "Dominique Mamberti",
+    "country": "France",
+    "role": "Prefect of theSupreme Tribunal of the Apostolic Signatura",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Dominique_Mamberti"
+  },
+  {
+    "name": "Mario Zenari",
+    "country": "Italy",
+    "role": "Apostolic Nuncio to Syria",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Zenari"
+  },
+  {
+    "name": "Kevin Farrell",
+    "country": "United States",
+    "role": "Prefect of theDicastery for the Laity, Family and LifeandCamerlengo of the Holy Roman Church",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Kevin_Farrell"
+  },
+  {
+    "name": "Konrad Krajewski",
+    "country": "Poland",
+    "role": "Almoner of His Holiness",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Konrad_Krajewski"
+  },
+  {
+    "name": "Jos\u00e9 Tolentino de Mendon\u00e7a",
+    "country": "Portugal",
+    "role": "Prefect of theDicastery for Culture and Education",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Tolentino_de_Mendon%C3%A7a"
+  },
+  {
+    "name": "Michael Czerny",
+    "country": "Canada",
+    "role": "Prefect of theDicastery for Promoting Integral Human Development",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Michael_Czerny"
+  },
+  {
+    "name": "Mario Grech",
+    "country": "Malta",
+    "role": "Secretary-General of theSynod of Bishops",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mario_Grech"
+  },
+  {
+    "name": "Marcello Semeraro",
+    "country": "Italy",
+    "role": "Prefect of theDicastery for the Causes of Saints",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Marcello_Semeraro"
+  },
+  {
+    "name": "Mauro Gambetti",
+    "country": "Italy",
+    "role": "Vicar General for Vatican City, Archpriest of thePapal Basilica of Saint Peterand President of theFabric of Saint Peter",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mauro_Gambetti"
+  },
+  {
+    "name": "Arthur Roche",
+    "country": "United Kingdom",
+    "role": "Prefect of theDicastery for Divine Worship and the Discipline of the Sacraments",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Arthur_Roche"
+  },
+  {
+    "name": "Lazarus You Heung-sik",
+    "country": "South Korea",
+    "role": "Prefect of theDicastery for the Clergy",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Lazarus_You_Heung-sik"
+  },
+  {
+    "name": "Claudio Gugerotti",
+    "country": "Italy",
+    "role": "Prefect of theDicastery for the Eastern Churches",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Claudio_Gugerotti"
+  },
+  {
+    "name": "V\u00edctor Manuel Fern\u00e1ndez",
+    "country": "Argentina",
+    "role": "Prefect of theDicastery for the Doctrine of the Faith",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Manuel_Fern%C3%A1ndez"
+  },
+  {
+    "name": "Emil Paul Tscherrig",
+    "country": "Switzerland",
+    "role": "Apostolic Nuncio emeritus to ItalyandSan Marino",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Emil_Paul_Tscherrig"
+  },
+  {
+    "name": "Christophe Pierre",
+    "country": "France",
+    "role": "Apostolic Nuncio to the United States",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Christophe_Pierre"
+  },
+  {
+    "name": "\u00c1ngel Fern\u00e1ndez Artime",
+    "country": "Spain",
+    "role": "Pro-Prefect of theDicastery for Institutes of Consecrated Life and Societies of Apostolic Life",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/%C3%81ngel_Fern%C3%A1ndez_Artime"
+  },
+  {
+    "name": "Rolandas Makrickas",
+    "country": "Lithuania",
+    "role": "Coadjutor Archpriest of thePapal Basilica of Saint Mary Major",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Rolandas_Makrickas"
+  },
+  {
+    "name": "Timothy Radcliffe",
+    "country": "United Kingdom",
+    "role": "Master emeritus of the Order of Preachers[q]",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Timothy_Radcliffe"
+  },
+  {
+    "name": "Fabio Baggio",
+    "country": "Italy",
+    "role": "Undersecretary of theMigrants and Refugees Sectionof theDicastery for Promoting Integral Human Development",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/Fabio_Baggio"
+  },
+  {
+    "name": "George Koovakad",
+    "country": "India",
+    "role": "Prefect of theDicastery for Interreligious Dialogue(Syro-Malabar Church)",
+    "order": "CD",
+    "wiki_url": "https://en.wikipedia.org/wiki/George_Koovakad"
+  },
+  {
+    "name": "Antonio Ca\u00f1izares Llovera",
+    "country": "Spain",
+    "role": "Archbishop emeritus of Valencia",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/Antonio_Ca%C3%B1izares_Llovera"
+  },
+  {
+    "name": "John Njue",
+    "country": "Kenya",
+    "role": "Archbishop emeritus of Nairobi",
+    "order": "CP",
+    "wiki_url": "https://en.wikipedia.org/wiki/John_Njue"
+  }
+]

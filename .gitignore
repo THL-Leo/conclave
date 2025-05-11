@@ -1,5 +1,6 @@
 __pycache__
 .env
-/data
+/data/round1
+/data/round2
 political_leaning_summaries.txt
 

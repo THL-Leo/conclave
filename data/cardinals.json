@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Pietro Parolin",
+    "bio_file": "data/pietro_parolin_bio.txt",
+    "voting_history_file": "data/pietro_parolin_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Fernando Filoni",
+    "bio_file": "data/fernando_filoni_bio.txt",
+    "voting_history_file": "data/fernando_filoni_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Luis Antonio Tagle",
+    "bio_file": "data/luis_antonio_tagle_bio.txt",
+    "voting_history_file": "data/luis_antonio_tagle_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Robert Francis Prevost",
+    "bio_file": "data/robert_francis_prevost_bio.txt",
+    "voting_history_file": "data/robert_francis_prevost_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Louis Rapha\u00ebl\u00a0I Sako",
+    "bio_file": "data/louis_rapha\u00ebl\u00a0i_sako_bio.txt",
+    "voting_history_file": "data/louis_rapha\u00ebl\u00a0i_sako_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Vinko Pulji\u0107",
+    "bio_file": "data/vinko_pulji\u0107_bio.txt",
+    "voting_history_file": "data/vinko_pulji\u0107_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "Peter Turkson",
+    "bio_file": "data/peter_turkson_bio.txt",
+    "voting_history_file": "data/peter_turkson_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Josip Bozani\u0107",
+    "bio_file": "data/josip_bozani\u0107_bio.txt",
+    "voting_history_file": "data/josip_bozani\u0107_voting_history.json",
+    "political_leaning": -0.5
+  },
+  {
+    "name": "Philippe Barbarin",
+    "bio_file": "data/philippe_barbarin_bio.txt",
+    "voting_history_file": "data/philippe_barbarin_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "P\u00e9ter Erd\u0151",
+    "bio_file": "data/p\u00e9ter_erd\u0151_bio.txt",
+    "voting_history_file": "data/p\u00e9ter_erd\u0151_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "Stanis\u0142aw Ry\u0142ko",
+    "bio_file": "data/stanis\u0142aw_ry\u0142ko_bio.txt",
+    "voting_history_file": "data/stanis\u0142aw_ry\u0142ko_voting_history.json",
+    "political_leaning": -0.5
+  },
+  {
+    "name": "Francisco Robles Ortega",
+    "bio_file": "data/francisco_robles_ortega_bio.txt",
+    "voting_history_file": "data/francisco_robles_ortega_voting_history.json",
+    "political_leaning": -0.5
+  },
+  {
+    "name": "Daniel DiNardo",
+    "bio_file": "data/daniel_dinardo_bio.txt",
+    "voting_history_file": "data/daniel_dinardo_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Odilo Scherer",
+    "bio_file": "data/odilo_scherer_bio.txt",
+    "voting_history_file": "data/odilo_scherer_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Robert Sarah",
+    "bio_file": "data/robert_sarah_bio.txt",
+    "voting_history_file": "data/robert_sarah_voting_history.json",
+    "political_leaning": -0.8
+  },
+  {
+    "name": "Raymond Leo Burke",
+    "bio_file": "data/raymond_leo_burke_bio.txt",
+    "voting_history_file": "data/raymond_leo_burke_voting_history.json",
+    "political_leaning": -1.0
+  },
+  {
+    "name": "Kurt Koch",
+    "bio_file": "data/kurt_koch_bio.txt",
+    "voting_history_file": "data/kurt_koch_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Kazimierz Nycz",
+    "bio_file": "data/kazimierz_nycz_bio.txt",
+    "voting_history_file": "data/kazimierz_nycz_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Malcolm Ranjith",
+    "bio_file": "data/malcolm_ranjith_bio.txt",
+    "voting_history_file": "data/malcolm_ranjith_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "Reinhard Marx",
+    "bio_file": "data/reinhard_marx_bio.txt",
+    "voting_history_file": "data/reinhard_marx_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Jo\u00e3o Braz de Aviz",
+    "bio_file": "data/jo\u00e3o_braz_de_aviz_bio.txt",
+    "voting_history_file": "data/jo\u00e3o_braz_de_aviz_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Thomas Collins",
+    "bio_file": "data/thomas_collins_bio.txt",
+    "voting_history_file": "data/thomas_collins_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Wim Eijk",
+    "bio_file": "data/wim_eijk_bio.txt",
+    "voting_history_file": "data/wim_eijk_voting_history.json",
+    "political_leaning": -0.8
+  },
+  {
+    "name": "Giuseppe Betori",
+    "bio_file": "data/giuseppe_betori_bio.txt",
+    "voting_history_file": "data/giuseppe_betori_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "Timothy Dolan",
+    "bio_file": "data/timothy_dolan_bio.txt",
+    "voting_history_file": "data/timothy_dolan_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "Rainer Woelki",
+    "bio_file": "data/rainer_woelki_bio.txt",
+    "voting_history_file": "data/rainer_woelki_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "James Michael Harvey",
+    "bio_file": "data/james_michael_harvey_bio.txt",
+    "voting_history_file": "data/james_michael_harvey_voting_history.json",
+    "political_leaning": -0.7
+  },
+  {
+    "name": "Baselios Cleemis",
+    "bio_file": "data/baselios_cleemis_bio.txt",
+    "voting_history_file": "data/baselios_cleemis_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Gerhard Ludwig M\u00fcller",
+    "bio_file": "data/gerhard_ludwig_m\u00fcller_bio.txt",
+    "voting_history_file": "data/gerhard_ludwig_m\u00fcller_voting_history.json",
+    "political_leaning": -0.8
+  },
+  {
+    "name": "Vincent Nichols",
+    "bio_file": "data/vincent_nichols_bio.txt",
+    "voting_history_file": "data/vincent_nichols_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Leopoldo Brenes",
+    "bio_file": "data/leopoldo_brenes_bio.txt",
+    "voting_history_file": "data/leopoldo_brenes_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "G\u00e9rald Lacroix",
+    "bio_file": "data/g\u00e9rald_lacroix_bio.txt",
+    "voting_history_file": "data/g\u00e9rald_lacroix_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Jean-Pierre Kutwa",
+    "bio_file": "data/jean-pierre_kutwa_bio.txt",
+    "voting_history_file": "data/jean-pierre_kutwa_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Orani Jo\u00e3o Tempesta",
+    "bio_file": "data/orani_jo\u00e3o_tempesta_bio.txt",
+    "voting_history_file": "data/orani_jo\u00e3o_tempesta_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Mario Aurelio Poli",
+    "bio_file": "data/mario_aurelio_poli_bio.txt",
+    "voting_history_file": "data/mario_aurelio_poli_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Philippe Ou\u00e9draogo",
+    "bio_file": "data/philippe_ou\u00e9draogo_bio.txt",
+    "voting_history_file": "data/philippe_ou\u00e9draogo_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Chibly Langlois",
+    "bio_file": "data/chibly_langlois_bio.txt",
+    "voting_history_file": "data/chibly_langlois_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Manuel Clemente",
+    "bio_file": "data/manuel_clemente_bio.txt",
+    "voting_history_file": "data/manuel_clemente_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Berhaneyesus Demerew Souraphiel",
+    "bio_file": "data/berhaneyesus_demerew_souraphiel_bio.txt",
+    "voting_history_file": "data/berhaneyesus_demerew_souraphiel_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "John Dew",
+    "bio_file": "data/john_dew_bio.txt",
+    "voting_history_file": "data/john_dew_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Charles Maung Bo",
+    "bio_file": "data/charles_maung_bo_bio.txt",
+    "voting_history_file": "data/charles_maung_bo_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Kriengsak Kovitvanit",
+    "bio_file": "data/kriengsak_kovitvanit_bio.txt",
+    "voting_history_file": "data/kriengsak_kovitvanit_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Francesco Montenegro",
+    "bio_file": "data/francesco_montenegro_bio.txt",
+    "voting_history_file": "data/francesco_montenegro_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Daniel Sturla",
+    "bio_file": "data/daniel_sturla_bio.txt",
+    "voting_history_file": "data/daniel_sturla_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Arlindo Gomes Furtado",
+    "bio_file": "data/arlindo_gomes_furtado_bio.txt",
+    "voting_history_file": "data/arlindo_gomes_furtado_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Soane Patita Paini Mafi",
+    "bio_file": "data/soane_patita_paini_mafi_bio.txt",
+    "voting_history_file": "data/soane_patita_paini_mafi_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Dieudonn\u00e9 Nzapalainga",
+    "bio_file": "data/dieudonn\u00e9_nzapalainga_bio.txt",
+    "voting_history_file": "data/dieudonn\u00e9_nzapalainga_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Carlos Osoro Sierra",
+    "bio_file": "data/carlos_osoro_sierra_bio.txt",
+    "voting_history_file": "data/carlos_osoro_sierra_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "S\u00e9rgio da Rocha",
+    "bio_file": "data/s\u00e9rgio_da_rocha_bio.txt",
+    "voting_history_file": "data/s\u00e9rgio_da_rocha_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Blase J. Cupich",
+    "bio_file": "data/blase_j._cupich_bio.txt",
+    "voting_history_file": "data/blase_j._cupich_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Jozef De Kesel",
+    "bio_file": "data/jozef_de_kesel_bio.txt",
+    "voting_history_file": "data/jozef_de_kesel_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Carlos Aguiar Retes",
+    "bio_file": "data/carlos_aguiar_retes_bio.txt",
+    "voting_history_file": "data/carlos_aguiar_retes_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "John Ribat",
+    "bio_file": "data/john_ribat_bio.txt",
+    "voting_history_file": "data/john_ribat_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Joseph W. Tobin",
+    "bio_file": "data/joseph_w._tobin_bio.txt",
+    "voting_history_file": "data/joseph_w._tobin_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Juan Jos\u00e9 Omella",
+    "bio_file": "data/juan_jos\u00e9_omella_bio.txt",
+    "voting_history_file": "data/juan_jos\u00e9_omella_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Anders Arborelius",
+    "bio_file": "data/anders_arborelius_bio.txt",
+    "voting_history_file": "data/anders_arborelius_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Angelo De Donatis",
+    "bio_file": "data/angelo_de_donatis_bio.txt",
+    "voting_history_file": "data/angelo_de_donatis_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Joseph Coutts",
+    "bio_file": "data/joseph_coutts_bio.txt",
+    "voting_history_file": "data/joseph_coutts_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Ant\u00f3nio Marto",
+    "bio_file": "data/ant\u00f3nio_marto_bio.txt",
+    "voting_history_file": "data/ant\u00f3nio_marto_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "D\u00e9sir\u00e9 Tsarahazana",
+    "bio_file": "data/d\u00e9sir\u00e9_tsarahazana_bio.txt",
+    "voting_history_file": "data/d\u00e9sir\u00e9_tsarahazana_voting_history.json",
+    "political_leaning": -0.5
+  },
+  {
+    "name": "Giuseppe Petrocchi",
+    "bio_file": "data/giuseppe_petrocchi_bio.txt",
+    "voting_history_file": "data/giuseppe_petrocchi_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Thomas Aquino Manyo Maeda",
+    "bio_file": "data/thomas_aquino_manyo_maeda_bio.txt",
+    "voting_history_file": "data/thomas_aquino_manyo_maeda_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "Ignatius Suharyo Hardjoatmodjo",
+    "bio_file": "data/ignatius_suharyo_hardjoatmodjo_bio.txt",
+    "voting_history_file": "data/ignatius_suharyo_hardjoatmodjo_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Juan Garc\u00eda Rodr\u00edguez",
+    "bio_file": "data/juan_garc\u00eda_rodr\u00edguez_bio.txt",
+    "voting_history_file": "data/juan_garc\u00eda_rodr\u00edguez_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "Fridolin Ambongo Besungu",
+    "bio_file": "data/fridolin_ambongo_besungu_bio.txt",
+    "voting_history_file": "data/fridolin_ambongo_besungu_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "Jean-Claude Hollerich",
+    "bio_file": "data/jean-claude_hollerich_bio.txt",
+    "voting_history_file": "data/jean-claude_hollerich_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "\u00c1lvaro Leonel Ramazzini Imeri",
+    "bio_file": "data/\u00e1lvaro_leonel_ramazzini_imeri_bio.txt",
+    "voting_history_file": "data/\u00e1lvaro_leonel_ramazzini_imeri_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Matteo Zuppi",
+    "bio_file": "data/matteo_zuppi_bio.txt",
+    "voting_history_file": "data/matteo_zuppi_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Crist\u00f3bal L\u00f3pez Romero",
+    "bio_file": "data/crist\u00f3bal_l\u00f3pez_romero_bio.txt",
+    "voting_history_file": "data/crist\u00f3bal_l\u00f3pez_romero_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Antoine Kambanda",
+    "bio_file": "data/antoine_kambanda_bio.txt",
+    "voting_history_file": "data/antoine_kambanda_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Wilton Daniel Gregory",
+    "bio_file": "data/wilton_daniel_gregory_bio.txt",
+    "voting_history_file": "data/wilton_daniel_gregory_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Jose Advincula",
+    "bio_file": "data/jose_advincula_bio.txt",
+    "voting_history_file": "data/jose_advincula_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Augusto Paolo Lojudice",
+    "bio_file": "data/augusto_paolo_lojudice_bio.txt",
+    "voting_history_file": "data/augusto_paolo_lojudice_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Jean-Marc Aveline",
+    "bio_file": "data/jean-marc_aveline_bio.txt",
+    "voting_history_file": "data/jean-marc_aveline_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Peter Okpaleke",
+    "bio_file": "data/peter_okpaleke_bio.txt",
+    "voting_history_file": "data/peter_okpaleke_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Leonardo Ulrich Steiner",
+    "bio_file": "data/leonardo_ulrich_steiner_bio.txt",
+    "voting_history_file": "data/leonardo_ulrich_steiner_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Filipe Neri Ferr\u00e3o",
+    "bio_file": "data/filipe_neri_ferr\u00e3o_bio.txt",
+    "voting_history_file": "data/filipe_neri_ferr\u00e3o_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Robert McElroy",
+    "bio_file": "data/robert_mcelroy_bio.txt",
+    "voting_history_file": "data/robert_mcelroy_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Virg\u00edlio do Carmo da Silva",
+    "bio_file": "data/virg\u00edlio_do_carmo_da_silva_bio.txt",
+    "voting_history_file": "data/virg\u00edlio_do_carmo_da_silva_voting_history.json",
+    "political_leaning": 0.0
+  },
+  {
+    "name": "Oscar Cantoni",
+    "bio_file": "data/oscar_cantoni_bio.txt",
+    "voting_history_file": "data/oscar_cantoni_voting_history.json",
+    "political_leaning": -0.5
+  },
+  {
+    "name": "Anthony Poola",
+    "bio_file": "data/anthony_poola_bio.txt",
+    "voting_history_file": "data/anthony_poola_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Paulo Cezar Costa",
+    "bio_file": "data/paulo_cezar_costa_bio.txt",
+    "voting_history_file": "data/paulo_cezar_costa_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "William Goh",
+    "bio_file": "data/william_goh_bio.txt",
+    "voting_history_file": "data/william_goh_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Adalberto Mart\u00ednez Flores",
+    "bio_file": "data/adalberto_mart\u00ednez_flores_bio.txt",
+    "voting_history_file": "data/adalberto_mart\u00ednez_flores_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Giorgio Marengo",
+    "bio_file": "data/giorgio_marengo_bio.txt",
+    "voting_history_file": "data/giorgio_marengo_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Pierbattista Pizzaballa",
+    "bio_file": "data/pierbattista_pizzaballa_bio.txt",
+    "voting_history_file": "data/pierbattista_pizzaballa_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Stephen Brislin",
+    "bio_file": "data/stephen_brislin_bio.txt",
+    "voting_history_file": "data/stephen_brislin_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "\u00c1ngel Sixto Rossi",
+    "bio_file": "data/\u00e1ngel_sixto_rossi_bio.txt",
+    "voting_history_file": "data/\u00e1ngel_sixto_rossi_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Luis Jos\u00e9 Rueda Aparicio",
+    "bio_file": "data/luis_jos\u00e9_rueda_aparicio_bio.txt",
+    "voting_history_file": "data/luis_jos\u00e9_rueda_aparicio_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Grzegorz Ry\u015b",
+    "bio_file": "data/grzegorz_ry\u015b_bio.txt",
+    "voting_history_file": "data/grzegorz_ry\u015b_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Stephen Ameyu Martin Mulla",
+    "bio_file": "data/stephen_ameyu_martin_mulla_bio.txt",
+    "voting_history_file": "data/stephen_ameyu_martin_mulla_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Jos\u00e9 Cobo Cano",
+    "bio_file": "data/jos\u00e9_cobo_cano_bio.txt",
+    "voting_history_file": "data/jos\u00e9_cobo_cano_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Protase Rugambwa",
+    "bio_file": "data/protase_rugambwa_bio.txt",
+    "voting_history_file": "data/protase_rugambwa_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Sebastian Francis",
+    "bio_file": "data/sebastian_francis_bio.txt",
+    "voting_history_file": "data/sebastian_francis_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Stephen Chow Sau-yan",
+    "bio_file": "data/stephen_chow_sau-yan_bio.txt",
+    "voting_history_file": "data/stephen_chow_sau-yan_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Fran\u00e7ois-Xavier Bustillo",
+    "bio_file": "data/fran\u00e7ois-xavier_bustillo_bio.txt",
+    "voting_history_file": "data/fran\u00e7ois-xavier_bustillo_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Am\u00e9rico Aguiar",
+    "bio_file": "data/am\u00e9rico_aguiar_bio.txt",
+    "voting_history_file": "data/am\u00e9rico_aguiar_voting_history.json",
+    "political_leaning": 0.6
+  },
+  {
+    "name": "Carlos Castillo Mattasoglio",
+    "bio_file": "data/carlos_castillo_mattasoglio_bio.txt",
+    "voting_history_file": "data/carlos_castillo_mattasoglio_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Vicente Bokalic Iglic",
+    "bio_file": "data/vicente_bokalic_iglic_bio.txt",
+    "voting_history_file": "data/vicente_bokalic_iglic_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Luis Cabrera Herrera",
+    "bio_file": "data/luis_cabrera_herrera_bio.txt",
+    "voting_history_file": "data/luis_cabrera_herrera_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Fernando Chomal\u00ed Garib",
+    "bio_file": "data/fernando_chomal\u00ed_garib_bio.txt",
+    "voting_history_file": "data/fernando_chomal\u00ed_garib_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Tarcisio Isao Kikuchi",
+    "bio_file": "data/tarcisio_isao_kikuchi_bio.txt",
+    "voting_history_file": "data/tarcisio_isao_kikuchi_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Pablo Virgilio David",
+    "bio_file": "data/pablo_virgilio_david_bio.txt",
+    "voting_history_file": "data/pablo_virgilio_david_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Ladislav Nemet",
+    "bio_file": "data/ladislav_nemet_bio.txt",
+    "voting_history_file": "data/ladislav_nemet_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Jaime Spengler",
+    "bio_file": "data/jaime_spengler_bio.txt",
+    "voting_history_file": "data/jaime_spengler_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Ignace Bessi Dogbo",
+    "bio_file": "data/ignace_bessi_dogbo_bio.txt",
+    "voting_history_file": "data/ignace_bessi_dogbo_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Jean-Paul Vesco",
+    "bio_file": "data/jean-paul_vesco_bio.txt",
+    "voting_history_file": "data/jean-paul_vesco_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Dominique Mathieu",
+    "bio_file": "data/dominique_mathieu_bio.txt",
+    "voting_history_file": "data/dominique_mathieu_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "Roberto Repole",
+    "bio_file": "data/roberto_repole_bio.txt",
+    "voting_history_file": "data/roberto_repole_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Baldassare Reina",
+    "bio_file": "data/baldassare_reina_bio.txt",
+    "voting_history_file": "data/baldassare_reina_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Frank Leo",
+    "bio_file": "data/frank_leo_bio.txt",
+    "voting_history_file": "data/frank_leo_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Mykola Bychok",
+    "bio_file": "data/mykola_bychok_bio.txt",
+    "voting_history_file": "data/mykola_bychok_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Domenico Battaglia",
+    "bio_file": "data/domenico_battaglia_bio.txt",
+    "voting_history_file": "data/domenico_battaglia_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Dominique Mamberti",
+    "bio_file": "data/dominique_mamberti_bio.txt",
+    "voting_history_file": "data/dominique_mamberti_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Mario Zenari",
+    "bio_file": "data/mario_zenari_bio.txt",
+    "voting_history_file": "data/mario_zenari_voting_history.json",
+    "political_leaning": -0.3
+  },
+  {
+    "name": "Kevin Farrell",
+    "bio_file": "data/kevin_farrell_bio.txt",
+    "voting_history_file": "data/kevin_farrell_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Konrad Krajewski",
+    "bio_file": "data/konrad_krajewski_bio.txt",
+    "voting_history_file": "data/konrad_krajewski_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Jos\u00e9 Tolentino de Mendon\u00e7a",
+    "bio_file": "data/jos\u00e9_tolentino_de_mendon\u00e7a_bio.txt",
+    "voting_history_file": "data/jos\u00e9_tolentino_de_mendon\u00e7a_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Michael Czerny",
+    "bio_file": "data/michael_czerny_bio.txt",
+    "voting_history_file": "data/michael_czerny_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "Mario Grech",
+    "bio_file": "data/mario_grech_bio.txt",
+    "voting_history_file": "data/mario_grech_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Marcello Semeraro",
+    "bio_file": "data/marcello_semeraro_bio.txt",
+    "voting_history_file": "data/marcello_semeraro_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Mauro Gambetti",
+    "bio_file": "data/mauro_gambetti_bio.txt",
+    "voting_history_file": "data/mauro_gambetti_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "Arthur Roche",
+    "bio_file": "data/arthur_roche_bio.txt",
+    "voting_history_file": "data/arthur_roche_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Lazarus You Heung-sik",
+    "bio_file": "data/lazarus_you_heung-sik_bio.txt",
+    "voting_history_file": "data/lazarus_you_heung-sik_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "Claudio Gugerotti",
+    "bio_file": "data/claudio_gugerotti_bio.txt",
+    "voting_history_file": "data/claudio_gugerotti_voting_history.json",
+    "political_leaning": 0.3
+  },
+  {
+    "name": "V\u00edctor Manuel Fern\u00e1ndez",
+    "bio_file": "data/v\u00edctor_manuel_fern\u00e1ndez_bio.txt",
+    "voting_history_file": "data/v\u00edctor_manuel_fern\u00e1ndez_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Emil Paul Tscherrig",
+    "bio_file": "data/emil_paul_tscherrig_bio.txt",
+    "voting_history_file": "data/emil_paul_tscherrig_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "Christophe Pierre",
+    "bio_file": "data/christophe_pierre_bio.txt",
+    "voting_history_file": "data/christophe_pierre_voting_history.json",
+    "political_leaning": -0.2
+  },
+  {
+    "name": "\u00c1ngel Fern\u00e1ndez Artime",
+    "bio_file": "data/\u00e1ngel_fern\u00e1ndez_artime_bio.txt",
+    "voting_history_file": "data/\u00e1ngel_fern\u00e1ndez_artime_voting_history.json",
+    "political_leaning": 0.4
+  },
+  {
+    "name": "Rolandas Makrickas",
+    "bio_file": "data/rolandas_makrickas_bio.txt",
+    "voting_history_file": "data/rolandas_makrickas_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Timothy Radcliffe",
+    "bio_file": "data/timothy_radcliffe_bio.txt",
+    "voting_history_file": "data/timothy_radcliffe_voting_history.json",
+    "political_leaning": 0.7
+  },
+  {
+    "name": "Fabio Baggio",
+    "bio_file": "data/fabio_baggio_bio.txt",
+    "voting_history_file": "data/fabio_baggio_voting_history.json",
+    "political_leaning": 0.8
+  },
+  {
+    "name": "George Koovakad",
+    "bio_file": "data/george_koovakad_bio.txt",
+    "voting_history_file": "data/george_koovakad_voting_history.json",
+    "political_leaning": 0.2
+  },
+  {
+    "name": "Antonio Ca\u00f1izares Llovera",
+    "bio_file": "data/antonio_ca\u00f1izares_llovera_bio.txt",
+    "voting_history_file": "data/antonio_ca\u00f1izares_llovera_voting_history.json",
+    "political_leaning": -0.8
+  },
+  {
+    "name": "John Njue",
+    "bio_file": "data/john_njue_bio.txt",
+    "voting_history_file": "data/john_njue_voting_history.json",
+    "political_leaning": -0.7
+  }
+]
